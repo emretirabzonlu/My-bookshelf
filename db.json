@@ -1,0 +1,62 @@
+{
+  "books": [
+    {
+      "id": "1684247528178",
+      "name": "İhanet Noktası",
+      "author": "Dan brown",
+      "publisher": "Altın",
+      "isbn": "464565615",
+      "price": 69.7,
+      "categoryId": "1683299418852"
+    },
+    {
+      "id": "1684959429533",
+      "name": "Yalnızız",
+      "author": "Peyami Safa",
+      "publisher": "Ötüken",
+      "isbn": "58623865",
+      "price": 69.7,
+      "categoryId": "1683299418852"
+    },
+    {
+      "id": "1684959473652",
+      "name": "Dağlar ve Rüzgar",
+      "author": "Sabahattin Ali",
+      "publisher": "YKY",
+      "isbn": "48956265",
+      "price": 99.99,
+      "categoryId": "1683299423014"
+    },
+    {
+      "id": "1684959576645",
+      "name": "Lavinia",
+      "author": "Özdemir Asaf",
+      "publisher": "YKY",
+      "isbn": "98526845",
+      "price": 86.25,
+      "categoryId": "1683299423014"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1683299418852",
+      "name": "Roman"
+    },
+    {
+      "id": "1683299423014",
+      "name": "Şiir"
+    },
+    {
+      "id": "1683299427952",
+      "name": "Deneme"
+    },
+    {
+      "id": "1683303009505",
+      "name": "Bilim Kurgu"
+    },
+    {
+      "id": "1683314712276",
+      "name": "hikaye"
+    }
+  ]
+}
